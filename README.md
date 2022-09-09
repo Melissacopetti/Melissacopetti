@@ -1,6 +1,9 @@
-### Oi, eu sou a Melissa Copetti!👩🏼‍💻
+![Profile views](https://gpvc.arturio.dev/Melissacopetti)
+
+![Oi-sou-a-Melissa-Copetti-09-09-2022](https://user-images.githubusercontent.com/104647493/189416218-1476dbf8-b72d-4bae-a831-9259f415be24.png)
 
 
+### Bem-vindo(a)!
 
 ```Typescript
 import Developer from 'MelissaCopetti';
@@ -16,6 +19,12 @@ class Skills extends Developer {
   frameworksAndLibs = ['React', 'Express', 'Axios', 'Knex', 'MySQL', 'styled-components', 'material-ui', 'Others'];
 }
 ```
+## Sobre mim:👩🏼‍💻
+<p><div align='justify'>
+ 
+Sou formada em <b>Filosofia</b> pela UFSM (2015) e migrei para a tecnologia através do Bootcamp de desenvolvimento web full-stack da <b>Labenu</b>. Na área de programação meu foco está sendo em <b>ReactJS</b>, com total atenção ao <b>CSS</b> e bibliotecas de Design, porém não deixo de ter gosto pela lógica, além do conhecimento de Front end, atualmente me dedico a aprender as linguagens e estruturas do Back end.
+<br></div></p>
+
 ## GitHub Estatísticas
 <div align="center">
   <a href="https://github.com/Melissacopetti">
