@@ -45,7 +45,7 @@ class Skills extends Developer {
  <a href="https://t.me/Melcopetti" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
   <a href="mailto:melissacopetti@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
   
- ![Snake animation](https://github.com/Melissacopetti/Melissacopetti/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 
