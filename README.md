@@ -19,12 +19,12 @@ class Skills extends Developer {
 ## GitHub Estatísticas
 <div align="center">
   <a href="https://github.com/Melissacopetti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Melissacopetti&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melissacopetti&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Melissacopetti&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melissacopetti&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 
   ## Linguagens e Ferramentas:
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Melissa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt=Melissa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Melissa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -44,7 +44,7 @@ class Skills extends Developer {
   <a href="https://www.linkedin.com/in/melissa-fernanda-copetti-078b26174" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://t.me/Melcopetti" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
   <a href="mailto:melissacopetti@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
- 
+  
 </div>
-
+ ![Snake animation](https://github.com/Melissacopetti/Melissacopetti/blob/output/github-contribution-grid-snake.svg)
 
