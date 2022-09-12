@@ -21,8 +21,8 @@ class Skills extends Developer {
 ```
 ## Sobre mim:👩🏼‍💻
 <p><div align='justify'>
- 
-Sou formada em <b>Filosofia</b> pela UFSM (2015) e migrei para a tecnologia através do Bootcamp de desenvolvimento web full-stack da <b>Labenu</b>. Na área de programação meu foco está sendo em <b>ReactJS</b>, com total atenção ao <b>CSS</b> e bibliotecas de Design, porém não deixo de ter gosto pela lógica, além do conhecimento de Front end, atualmente me dedico a aprender as linguagens e estruturas do Back end.
+
+Sou formada em <b>Filosofia</b> pela UFSM (2015) e migrei para a tecnologia através do Bootcamp de desenvolvimento web full-stack da <b>Labenu</b>.  Na área de programação, meu foco é a lógica aplicada em <b>ReactJS</b>, com total atenção ao CSS e bibliotecas de Design. Além do conhecimento de Front end, atualmente me dedico a aprender as linguagens e estruturas do Back end.
 <br></div></p>
 
 ## GitHub Estatísticas
@@ -54,7 +54,7 @@ Sou formada em <b>Filosofia</b> pela UFSM (2015) e migrei para a tecnologia atra
  <a href="https://t.me/Melcopetti" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
   <a href="mailto:melissacopetti@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
   
-![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Melissacopetti/Melissacopetti/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 
