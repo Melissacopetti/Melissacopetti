@@ -1,4 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/Melissacopetti)
+![Profile views](https://komarev.com/ghpvc/?username=Melissacopetti)
 
 ![Oi-sou-a-Melissa-Copetti-09-09-2022](https://user-images.githubusercontent.com/104647493/189416218-1476dbf8-b72d-4bae-a831-9259f415be24.png)
 
@@ -11,12 +11,12 @@ import Developer from 'MelissaCopetti';
 class AboutMe extends Developer {
   name = 'Melissa Fernanda Copetti';
   acknowledgements = 'Full Stack Developer';
-  learning = 'Back end';
+  learning = 'Java';
 }
 
 class Skills extends Developer {
   languages = ['JavaScript', 'TypeScript'];
-  frameworksAndLibs = ['React', 'Express', 'Axios', 'Knex', 'MySQL', 'styled-components', 'material-ui', 'Others'];
+  frameworksAndLibs = ['React','Angular', 'Express', 'Axios', 'Knex', 'MySQL', 'styled-components', 'material-ui', 'Others'];
 }
 ```
 ## Sobre mim:👩🏼‍💻
@@ -39,6 +39,7 @@ Sou formada em <b>Filosofia</b> pela UFSM (2015) e migrei para a tecnologia atra
   <img align="center" alt="Melissa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" al=Melissa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Melissa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
   <img align="center" alt="Melissa-Node.JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Melissa-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Melissa-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
