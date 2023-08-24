@@ -20,9 +20,10 @@ class Skills extends Developer {
 }
 ```
 ## Sobre mim:👩🏼‍💻
+## Sobre mim:👩🏼‍💻
 <p><div align='justify'>
 
-Sou formada em <b>Filosofia</b> pela UFSM (2015) e migrei para a tecnologia através do Bootcamp de desenvolvimento web full-stack da <b>Labenu</b>.  Na área de programação, meu foco é a lógica aplicada em <b>ReactJS</b>, com total atenção ao CSS e bibliotecas de Design. Além do conhecimento de Front end, atualmente me dedico a aprender as linguagens e estruturas do Back end.
+Sou formada em <b>Filosofia</b> pela UFSM (2015) e migrei para a tecnologia através do Bootcamp de desenvolvimento web full-stack da <b>Labenu</b>.  Na área de programação, meu foco é a lógica aplicada em <b>ReactJS</b>, com total atenção ao CSS e bibliotecas de Design. Além do conhecimento de Front-end, atualmente me dedico a aprender as linguagens e estruturas do Back-end, como Typescript e Java.
 <br></div></p>
 
 ## GitHub Estatísticas
@@ -34,17 +35,20 @@ Sou formada em <b>Filosofia</b> pela UFSM (2015) e migrei para a tecnologia atra
 
   ## Linguagens e Ferramentas:
 <div style="display: inline_block" align="center"><br>
+<img align="center" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+ <img align="center" al=Melissa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Melissa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Melissa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img loading="lazy" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
   <img align="center" alt=Melissa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Melissa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" al=Melissa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Melissa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
+<img align="center" alt="Melissa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" alt="Melissa-Node.JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Melissa-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Melissa-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/209f2e340b62abbd3c5cdaa4df319b8c.gif" align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"alt="https://picasion.com/" /></a><br />
 </div>
+  
   
    ##
  
