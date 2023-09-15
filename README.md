@@ -19,7 +19,7 @@ class Skills extends Developer {
   frameworksAndLibs = ['React','Angular', 'Express', 'Axios', 'Knex', 'MySQL', 'styled-components', 'material-ui', 'Others'];
 }
 ```
-## Sobre mim:👩🏼‍💻
+
 ## Sobre mim:👩🏼‍💻
 <p><div align='justify'>
 
