@@ -1,6 +1,8 @@
-![Profile views](https://komarev.com/ghpvc/?username=Melissacopetti)
 
-![Oi-sou-a-Melissa-Copetti-09-09-2022](https://user-images.githubusercontent.com/104647493/189416218-1476dbf8-b72d-4bae-a831-9259f415be24.png)
+
+![](https://komarev.com/ghpvc/?Melissacopetti=your-github-Melissacopetti&label=PROFILE+VIEWS)
+
+ ![Oi-sou-a-Melissa-Copetti-09-09-2022](https://user-images.githubusercontent.com/104647493/189416218-1476dbf8-b72d-4bae-a831-9259f415be24.png)
 
 
 ### Bem-vindo(a)!
@@ -23,15 +25,16 @@ class Skills extends Developer {
 ## Sobre mim:👩🏼‍💻
 <p><div align='justify'>
 
-Sou formada em <b>Filosofia</b> pela UFSM (2015) e migrei para a tecnologia através do Bootcamp de desenvolvimento web full-stack da <b>Labenu</b>.  Na área de programação, meu foco é a lógica aplicada em <b>ReactJS</b>, com total atenção ao CSS e bibliotecas de Design. Além do conhecimento de Front-end, atualmente me dedico a aprender as linguagens e estruturas do Back-end, como Typescript e Java.
+Sou formada em <b>Filosofia</b> pela UFSM (2015) e ingressei para a tecnologia através do Bootcamp de desenvolvimento web full-stack da <b>Labenu</b>, onde desenvolvi conhecimento em **Javascript** e **Typescript**, além de **HTML** e **CSS**, **ReactJS** e **Node**. Posteriormente incorporei os conhecimentos de **Angular** e, recentemente, através da escola **Dio**, estou me aprofundando em **Java**, **Kotlin** e do framework **Spring**. 
 <br></div></p>
 
 ## GitHub Estatísticas
 <div align="center">
-  <a href="https://github.com/Melissacopetti">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Melissacopetti&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melissacopetti&layout=compact&langs_count=7&theme=synthwave"/>
+ 
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Melissacopetti&show_icons=truee&theme=synthwave)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Melissacopetti&layout=compact&theme=synthwave)
 </div>
+
 
   ## Linguagens e Ferramentas:
 <div style="display: inline_block" align="center"><br>
@@ -58,8 +61,7 @@ Sou formada em <b>Filosofia</b> pela UFSM (2015) e migrei para a tecnologia atra
   <a href="https://www.linkedin.com/in/melissa-fernanda-copetti-078b26174" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://t.me/Melcopetti" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
   <a href="mailto:melissacopetti@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
-  
- ![Snake animation](https://github.com/Melissacopetti/Melissacopetti/blob/output/github-contribution-grid-snake.svg)
-</div>
 
+</div>
+  
 
